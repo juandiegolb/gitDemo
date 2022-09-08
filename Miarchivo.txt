@@ -1,0 +1,2 @@
+Primera linea del archivo
+git add Si se desea agregar varios archivos, se pone git add y se ponen los archivos separados por espacio.
